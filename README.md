@@ -9,11 +9,11 @@ Easy way to download burpsuite( don't take tension when vivek is here )
 --> For Start Menu Entry, copy **Burp-Suite-Pro.vbs** file to 
 	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
   
-  #Burp Suite Professional Installation steps for Kali-Linux
+#Burp Suite Professional Installation steps for Kali-Linux
   
   --> Execute Kali_Linux_Setup.sh file as root user
   
-  #Burp Suite Pro Activation Steps
+#Burp Suite Pro Activation Steps
   
 1. Modify License String like "license to Siddharth"
 2. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
